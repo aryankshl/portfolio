@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "role": "Software Developer",
+        "company": "Hummingbird Web Solutions",
+        "duration": "September 2025 -- Present",
+        "description": "Developing custom pages and full-stack checkout logic while optimizing PHP backend performance and managing environment-specific layout fixes across browsers.",
+        "tech": [
+            "PHP",
+            "Linux",
+            "Git",
+            "New Relic",
+            "PageSpeed Insights"
+        ]
+    },
+    {
+        "id": "2",
+        "role": "Member of Technical Staff Intern",
+        "company": "DevRev.ai",
+        "duration": "Jan 2025 -- June 2025",
+        "description": "Architected the 'Edit Profile' module with a Slovenia-based team, engineering reactive UI components and optimizing image compression pipelines for user data updates.",
+        "tech": [
+            "SwiftUI",
+            "Combine",
+            "MVVM",
+            "Xcode",
+            "Swift"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "title": "Vector Fusion Hub",
+        "description": "VectorFusion Hub – A fast and efficient Python-based search engine that indexes and maps data for optimized search performance. Customize and enhance the search experience with easy-to-modify scripts. Perfect for data-heavy projects requiring quick information retrieval.",
+        "tags": [
+            "Python",
+            "Elasticsearch",
+            "BERT",
+            "Cloud Architected"
+        ],
+        "link": "https://github.com/aryankshl/VectorFusion-Hub",
+        "image": "/projects/vectorFusionHub.webp"
+    },
+    {
+        "id": "2",
+        "title": "MedEase",
+        "description": "Welcome to MedEase, your go-to destination for comprehensive healthcare solutions. At MedEase, we believe in making healthcare accessible, personalized, and effortless for everyone. Our platform connects you with top medical professionals, provides reliable health information, and offers a suite of tools to manage your health with ease.",
+        "tags": [
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Sentry"
+        ],
+        "link": "https://github.com/aryankshl/MedEase",
+        "image": "/projects/MedEase.png"
+    },
+    {
+        "id": "3",
+        "title": "Movie Browse",
+        "description": "A dynamic movie discovery platform built with React.js and Node.js that integrates the TMDB API to provide real-time ratings, reviews, and cast details. The application features a personalized browsing experience with a MongoDB backend for data persistence and a responsive, modern UI crafted using Next.js and Tailwind CSS.",
+        "tags": [
+            "React.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "TMDB API"
+        ],
+        "link": "https://github.com/aryankshl/movie-browse",
+        "image": "/projects/MovieBrowse.png"
+    }
+]
